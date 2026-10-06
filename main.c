@@ -5,5 +5,5 @@ int main() {
     printf("=== CALCULATOR CI/CD DEMO ===\n");
     printf("%d + %d = %d\n", a, b, a + b);
     printf("%d - %d = %d\n", a, b, a - b);
-    return 0;
+    return 0
 }
